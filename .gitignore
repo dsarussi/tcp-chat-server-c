@@ -1,0 +1,12 @@
+# Compiled programs
+tcpServer
+tcpClient
+daytimeServer
+daytimeClient
+sendfilesServer
+sendfilesClient
+chatroomServer
+chatroomClient
+
+# Output of the file-transfer server
+recv.txt
